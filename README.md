@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/banner.png" width="90%" style="border-radius:15px;">
+</p>
+
 # Mind-Tool-System
 
 A minimal, AI-first repository designed for use with **Mind-Tool**, an AI-augmented system that organizes, builds, and maintains your digital world.
