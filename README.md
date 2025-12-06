@@ -1,7 +1,5 @@
 # Mind-Tool-System
 
-*(This repository also includes a developer‑focused documentation file: see the section **docs/overview.md (below)** in this canvas. When publishing on GitHub, place that content inside `/docs/overview.md`.)*
-
 A minimal, AI-first repository designed for use with **Mind-Tool**, an AI-augmented system that organizes, builds, and maintains your digital world.
 
 This repository intentionally contains **very few files**. This is by design.
