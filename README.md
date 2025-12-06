@@ -106,16 +106,13 @@ It cannot control physical systems.
 
 ---
 
-# 📣 Credits
+📣 Credits
 
-Designed by **Dr. Ioannis Chrysochos**.
-
+Designed by Dr. Ioannis Chrysochos.
 Mind-Tool is the result of a vision: AI as a continuous partner in thinking, organizing, and improving the digital world.
 
----
+📄 Next Steps
 
-# 📄 Next Steps
+You can extend this repository by adding files under docs/, or simply allow an AI tool to generate new project structure dynamically using the Mind-Tool workflow.
 
-You can extend this repository by adding additional files under `docs/` or by letting the AI generate new structures inside a Memory Folder.
-
----
+For additional features, including tutorials, website versions, or PDF manuals, feel free to generate them using your AI agent.
